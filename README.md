@@ -1,5 +1,7 @@
 # ML Engineering on Google Cloud Platform
 
+![MLOps workflows on Google Cloud Platform](images/cover-mlops-on-gcp2.png)
+
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
 
@@ -12,10 +14,7 @@ This repository is organized into two sections:
 
 
 ### Mini workshops
-This section contains hands-on labs for instructor led ML Engineering mini workshops. 
+This section contains hands-on labs for instructor led ML Engineering mini workshops.
 
 ### Code Samples
-This section compiles  samples demonstrating design and code patterns for a variety of ML Engineering topics. 
-
-
-
+This section compiles  samples demonstrating design and code patterns for a variety of ML Engineering topics.
